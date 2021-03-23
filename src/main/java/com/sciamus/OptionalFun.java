@@ -19,7 +19,7 @@ public class OptionalFun {
 
 
         System.out.println("Cow1: "+finalCowName1);
-        System.out.println("Cow2: "+finalCowName2);
+        //System.out.println("Cow2: "+finalCowName2);
 
 
     }
